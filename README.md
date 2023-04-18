@@ -1,7 +1,7 @@
 # 🎯 INTERCEPTOR NEDİR ?
 
 <p align ="center">
-<img src = "img1">
+<img src = "https://github.com/rasitesdmr/SpringBoot-MVC-HandlerInterceptor/blob/master/images/img1.png">
 </p>
 
 * Spring MVC Interceptor, Spring MVC framework içinde HTTP isteklerinin işlenmesi sırasında özelleştirilmiş ön ve son
